@@ -1,4 +1,4 @@
-@link(url: "https://specs.apollo.dev/federation/v2.5", import: ["@key", "@authenticated", "@requiresScopes"])])
+@link(url: "https://specs.apollo.dev/federation/v2.5", import: ["@key", "@authenticated", "@requiresScopes"])
 
 type Query {
   """
